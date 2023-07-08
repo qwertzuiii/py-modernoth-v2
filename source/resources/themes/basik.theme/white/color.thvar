@@ -1,0 +1,15 @@
+{
+    "$bg_color$": "rgb(9, 7, 59)",
+
+    "$primary$": "rgb(14, 18, 130)",
+    "$primary_hover$": "rgb(26, 29, 145)",
+    "$primary_press$": "rgb(10, 13, 109)",
+
+    "$secondary$": "rgb(21, 45, 135)",
+    "$secondary_hover$": "rgb(34, 58, 153)",
+    "$secondary_press$": "rgb(17, 38, 116)",
+
+    "$text_color$": "rgb(255, 255, 255)",
+
+    "$roundval$": "5px"
+}
