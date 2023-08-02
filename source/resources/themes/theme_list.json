@@ -1,8 +1,26 @@
 [
-  {
-    "name": "Basik-v2 - Default White",
-    "file": "basik.theme/theme.th",
-    "var_file": "basik.theme/white/color.thvar",
-    "opt": ""
-  }
+	{
+		"name": "Basik-v2 - Default Dark-Blue",
+		"file": "basik.theme/theme.th",
+		"var_file": "basik.theme/dark_blue/color.thvar",
+		"opt": ""
+	},
+	{
+		"name": "Basik-v2 - Rounded Dark-Blue",
+		"file": "basik.theme/theme.th",
+		"var_file": "basik.theme/dark_blue/color.thvar",
+		"opt": "basik.theme/opt/round.th"
+	},
+	{
+		"name": "Darkeum",
+		"file": "darkeum.theme/theme.th",
+		"var_file": "none.thvar",
+		"opt": ""
+	},
+	{
+		"name": "QDarkOrange Theme",
+		"file": "qdarkorange.theme/theme.th",
+		"var_file": "none.thvar",
+		"opt": ""
+	}
 ]
